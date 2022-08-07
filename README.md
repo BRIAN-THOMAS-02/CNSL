@@ -1,6 +1,7 @@
 # CNSL
 CNS Lab Write-ups
 
+Sem 5 TEXTBOOKS - https://drive.google.com/drive/u/0/folders/1SvFnUkbQFxRpcQKnIVkZaEQAs9D-ptrH
 
 Sem 5 Assignments -- https://drive.google.com/drive/folders/1nko8zWrhGSvy7tF3yf14s2gdswQYS4p7
 
